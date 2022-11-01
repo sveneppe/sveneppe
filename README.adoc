@@ -11,7 +11,7 @@ Maybe you find something interesting in here soon.
 
 . Get in touch with maschine, federated & deep learning aspects
 . Looking for some ideas
-. etc.
+. Finishing my Master 
 
 
 🌱 I’m currently focus on learning Kotlin, Python and by time a bit Java Script too.
