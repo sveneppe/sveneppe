@@ -1,0 +1,31 @@
+= Hello everybody 👋
+
+welcome at my own repository for some coding.
+
+By now, it's quite empty here I know, but I will focus on starting a few projects in the near future.
+Maybe you find something interesting in here soon.
+
+== About myself:
+
+- 🔭 I’m currently working on a few things for my own:
+
+
+. Get in touch with maschine, federated & deep learning aspects
+. Looking for some ideas
+. etc.
+
+* 🌱 I’m currently focus on learning Kotlin, Python and by time a bit Java Script too.
+* 💡 My first programming language is Java so if you know someone who know's .... leave a hint 😉.
+* 👯 I’m looking to collaborate on open source projects in Java / Kotlin and for feedback in any possible situations!
+
+== Interesting topics I like to work on 
+
+* Projects on cancer ❤️
+* Neuroimaging 🤩
+* Maschine, federated & deep learning stuff 🤩
+* Nearly everything which could have an inpact in health ❤️💝
+
+== What should you do if you read this?
+
+Maybe you find something interesting in hear or see something strange, feel free to copy from or raise an issue to discuss.
+If you have some interesting ideas, please raise an issue or invite me on a project.
